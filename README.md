@@ -15,3 +15,5 @@ Completed user stories:
 
 ![](http://i.imgur.com/ZyIdGKh.gifv)
 
+![](http://i.imgur.com/ZyIdGKh.jpg#_=_)
+
