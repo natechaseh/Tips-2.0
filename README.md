@@ -13,7 +13,5 @@ Completed user stories:
  Optional: User can see what each person would play (including tip) if bill was split evenly
 
 
-![](http://i.imgur.com/ZyIdGKh.gifv)
-
 ![](http://i.imgur.com/ZyIdGKh.jpg#_=_)
 
